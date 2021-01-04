@@ -6,7 +6,7 @@
 Data Science w/ Python
 ======================
 
-This repo contains data analysis code an machine learning approaches in Python.
+This repo contains code, data analyses and machine learning approaches in Python and follows the insights presented in [Data Science Projects with Python](https://github.com/TrainingByPackt/Data-Science-Projects-with-Python).
 
 The code contained in this repo is writen using Jupyter Notebook and focus heavily in the following libraries:
 
